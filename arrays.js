@@ -33,8 +33,8 @@ function destructivelyAddElementToEndOfArray(countries, newCountry) {
 
 var numbers = [1, 2, 3]
 
-function accessElementInArray(numbers, numbers[2]) {
-  return numbers[2]
+function accessElementInArray(numbers, 0) {
+  return numbers[0]
 }
 
 
