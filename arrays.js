@@ -34,7 +34,7 @@ function destructivelyAddElementToEndOfArray(countries, newCountry) {
 var numbers = [1, 2, 3]
 
 function accessElementInArray(numbers) {
-  return numbers[0]
+  return numbers[2]
 }
 
 
